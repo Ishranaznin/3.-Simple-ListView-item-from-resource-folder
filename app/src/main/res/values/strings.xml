@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simple_List_View</string>
+    <string-array name="CTGTHANA">
+        <item> Akbarshah </item>
+        <item> Bakoliya </item>
+        <item> Bander</item>
+        <item> Bayazid </item>
+        <item> Chandgaon </item>
+        <item> Double Mooring </item>
+        <item> EPZ Thana </item>
+        <item> Halishahar Thana </item>
+        <item>chawkbazar</item>
+        <item>Karnaphuli Upazila </item>
+        <item> Khulshi Thana </item>
+        <item> Kotwali Thana </item>
+        <item> Pahartali Thana </item>
+        <item> Panchlaish Thana </item>
+        <item> Patenga Thana </item>
+        <item>chawkbazar</item>
+    </string-array>
+</resources>
