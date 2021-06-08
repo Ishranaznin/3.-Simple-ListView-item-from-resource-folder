@@ -4,14 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <ListView
         android:id="@+id/lv1"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:divider="#8E24AA"
         android:dividerHeight="3dp"
         android:listSelector="#B83030"
         android:padding="5dp"></ListView>
+
 </LinearLayout>
